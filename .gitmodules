@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Mega2R"]
-	path = Mega2R
-	url = https://github.com/cran/Mega2R
 [submodule "nplplot"]
 	path = nplplot
 	url = https://github.com/cran/nplplot
